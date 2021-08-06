@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@11ty/eleventy-cache-assets": "^2.2.1",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
